@@ -1,0 +1,36 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Didot', Courier, monospace;
+}
+
+body {
+    background-image: url('images/gradient2.jpg');
+    background-size: cover;
+
+}
+
+.flex-container {
+display: flex;
+justify-content: center;
+min-height: 100vh;
+flex-direction: column;
+}
+
+#text {
+    font-weight: 100;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+
+}
+
+#list {
+  font-weight: 100;
+  color: white;
+  font-size: 18x;
+  text-align: center;
+  padding: 20px;
+}
