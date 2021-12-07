@@ -17,7 +17,7 @@ display:flex property, which is aligned at the
 centre, is used to fill available free space
 or to shrink them to prevent overflow. */
 body {
-    background-image:url('images/dawn.jpg');
+    background-image:url('images/Dawn.jpg');
     background-size: cover;
     min-height: 100vh;
     display: flex;
